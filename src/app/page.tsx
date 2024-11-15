@@ -46,7 +46,7 @@ export default function Home() {
               className="underline text-m"
               onClick={() => setShowNo(false)}
             >
-              Maybe it has changed...
+              Try again...
             </button>
           </div>
         ) : null}
