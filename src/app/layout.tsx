@@ -8,11 +8,11 @@ export const metadata: Metadata = {
   applicationName: "Is it Christmas?",
   authors: [{ name: "Sergio Vittorio Zambelli", url: "https://github.com/sergiovzambelli" }],
   robots: "index, follow",
-  // metadataBase: new URL(seo_text.url),
+  metadataBase: new URL("https://isitchristmas.it"),
   openGraph: {
     title: "Is it Christmas?",
     description: "The answer to the question we all have in our hearts: is it Christmas?",
-    //url: seo_text.url,
+    url: "https://isitchristmas.it",
     siteName: "Is is Christmas?",
     images: [
       {
