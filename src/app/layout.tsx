@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     siteName: "Is is Christmas?",
     images: [
       {
-        url: "/og-image.png",
+        url: "https://isitchristmas.it/og-image.png",
         width: 1200,
         height: 630,
       },
